@@ -1,5 +1,7 @@
 #include <iostream>
 int main()
-{
-    std::cout<<"Hello World";
+{ int a=2; int b=5; 
+    int sum= a+b;
+    std::cout<<"Sum is "<< sum;
 }
+    
